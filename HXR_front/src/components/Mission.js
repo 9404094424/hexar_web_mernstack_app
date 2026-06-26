@@ -21,6 +21,7 @@ export default function Mission() {
         <section className='bg2'>
             <div className=''>
                 <div className='row align-items-center'>
+
                     <div className='col-lg-6'>
                         <svg
                             width="100%"
@@ -89,7 +90,7 @@ export default function Mission() {
                     </div>
                 </div>
             </div>
-         
+
         </section>
     )
 }

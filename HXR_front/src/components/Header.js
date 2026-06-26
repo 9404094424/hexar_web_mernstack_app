@@ -10,7 +10,7 @@ function Header() {
     return (
         <Navbar expand="lg" className="header">
             <Container>
-                <Navbar.Brand >SMS-PORTAL</Navbar.Brand>
+                <Navbar.Brand >HEXAR</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="text-center header-part">

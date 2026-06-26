@@ -18,6 +18,18 @@ const Main = () => {
 
   return (
     <section>
+      <header>
+        <div className='container-fluid'>
+          <div className='row align-items-center'>
+            <div className='col-lg-6 col-6 text-left'>
+              <img src='images/hexar-logo1.png' />
+            </div>
+            <div className='col-lg-6 col-6 text-end'>
+              <a href='#' className='contactbtn'>Contact Us</a>
+            </div>
+          </div>
+        </div>
+      </header>
       <Swiper
         modules={[Navigation, Autoplay]}
         navigation
